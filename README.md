@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages, Tools and Libraries:
+### I prefer to use:
 
 [<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" height="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="42" />][website]
