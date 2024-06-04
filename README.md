@@ -11,7 +11,7 @@
 - 💻 Blockchain Frontend Developer
 - 🏗️ Developing Web3 dApps
 - 💙 Open source contributor
-- 📫 Reach me at: **[kacper@szarkiewicz.com](kacper@szarkiewicz.com)**
+- 📫 Reach me at: **[szarkiewiczmail@gmail.com](szarkiewiczmail@gmail.com)**
 
 <br />
 
