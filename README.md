@@ -28,7 +28,7 @@
 
 ---
 
-[email]: kacper@szarkiewicz.com
+[email]: szarkiewiczmail@gmail.com
 [website]: https://szarkiewicz.com/
 [github]: https://github.com/Sharqiewicz/
 [linkedin]: https://www.linkedin.com/in/kacperszarkiewicz/
