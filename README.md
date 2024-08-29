@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/sharqiewicz-1E1E1E?style=flat&logo=Github&logoColor=white&link=https://github.com/Sharqiewicz/)][github]
 [![Linkedin Badge](https://img.shields.io/badge/sharqiewicz-45B5B3?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kacperszarkiewicz/)][linkedin]
 [![Website Badge](https://img.shields.io/badge/szarkiewicz.com-79D8BA?style=flat&logo=Google-Chrome&logoColor=white&link=https://szarkiewicz.com)][website]
-[![Gmail Badge](https://img.shields.io/badge/kacper@szarkiewicz.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:szarkiewiczmail@gmail.com)](mailto:szarkiewiczmail@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/szarkiewiczmail@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:szarkiewiczmail@gmail.com)](mailto:szarkiewiczmail@gmail.com)
 
 
 ### About me
