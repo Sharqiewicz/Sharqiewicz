@@ -9,7 +9,7 @@
 
 ### About me
 
-- 💻 Blockchain Frontend Developer
+- 💻 Blockchain Frontend Engineer
 - 🏗️ Developing Web3 dApps
 - 💙 Open source contributor
 - 📫 Reach me at: **[contact@sharqiewicz.com](contact@sharqiewicz.com)**
