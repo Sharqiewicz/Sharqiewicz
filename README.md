@@ -1,5 +1,5 @@
 [<img src="https://github.com/Sharqiewicz/szarkiewicz-com/blob/main/src/assets/logo-light.svg" alt="Szarkiewicz logo" height="42" />][website]
-## Hi there 👋, I'm Sharqi
+## Hi there 👋, I'm Sharqiewicz
 
 [![Github Badge](https://img.shields.io/badge/sharqiewicz-1E1E1E?style=flat&logo=Github&logoColor=white&link=https://github.com/Sharqiewicz/)][github]
 [![Linkedin Badge](https://img.shields.io/badge/sharqiewicz-45B5B3?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kacperszarkiewicz/)][linkedin]
