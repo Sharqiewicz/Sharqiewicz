@@ -18,7 +18,6 @@
 
 ### I prefer to use:
 
-[<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJS" height="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TS" height="42" />][website]
 [<img src="https://cdn.svgporn.com/logos/svelte-icon.svg" alt="TS" height="42" />][website]
